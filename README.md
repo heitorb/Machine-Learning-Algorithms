@@ -8,7 +8,7 @@ First of all, create a C# project, and open the Package Manager Console:
 Tools > NuGet Package Manager > Package Manager Console
 ```
 
-Then, type the command in the Console:
+Then, type the commands in the Console:
 
 ```
 PM> Install-Package Accord -Version 3.8.0
